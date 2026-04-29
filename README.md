@@ -41,17 +41,17 @@ jupyter notebook amazon_music_clustering.ipynb
 Or open it in Google Colab.
 
 # Workflow
-Load dataset
-Clean & preprocess data
-Feature scaling
-Apply clustering algorithm
-Evaluate clusters
-Visualize results
+##Load dataset
+###Clean & preprocess data
+####Feature scaling
+#####Apply clustering algorithm
+######Evaluate clusters
+#######Visualize results
 
 # Sample Outputs
-Cluster plots
-Elbow method graph
-Cluster distribution
+##Cluster plots
+###Elbow method graph
+####Cluster distribution
 
 # Insights
 Identified groups of similar music patterns
