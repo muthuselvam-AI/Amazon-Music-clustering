@@ -22,7 +22,7 @@ Cluster interpretation and analysis
 ## Project Structure
 📁 amazon-music-clustering
 │
-├── 📄 amazon_music_clustering.ipynb   # Main notebook
+├── 📄 amazon_music_clustering.ipynb  ## Main notebook
 ├── 📄 README.md                      # Project documentation
 ├── 📁 data                           # Dataset (if included)
 └── 📁 outputs                        # Results & visualizations
@@ -134,6 +134,4 @@ This project is open-source and available under the MIT License.
 👤 Author
 
 Muthu
-Scikit-learn
-Matplotlib / Seaborn
-Jupyter Notebook
+
